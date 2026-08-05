@@ -24,12 +24,18 @@ This repository serves as a portfolio and hands-on lab environment where I docum
 
 ---
 
-## 📁 What You'll Find Here
+## 🚀 Featured Projects
 
-As I build and test on my PDI, I upload:
-* **`/flow-designer`** – Automation flows, subflows, and conditional trigger setups.
-* **`/app-engine-studio`** – Low-code app configurations and custom process builds.
-* **`/update-sets`** – Saved XML configurations and update sets for backup and deployment practice.
+### 🛠️ IT Equipment Provisioning & Task Automation (Scoped App)
+An automated end-to-end fulfillment pipeline for IT equipment requests built on **App Engine Studio** and **Flow Designer**.
+
+* **Business Case:** Eliminates manual email handling for hardware onboarding by automatically setting task priorities based on employee role (`Manager` -> Critical, `Developer` -> High, `Standard` -> Low).
+* **Key Features:**
+  * Custom Data Model & UI Policy (`Tipo Kit` mandatory, `Priority` read-only for governance).
+  * Conditional branching logic & dynamic SLA priority routing in Flow Designer.
+  * Contextual email notifications with dynamic target record numbers.
+* **Artifacts:**
+  * 📄 [View Update Set XML](./update-sets/richiesta-kit-lavoro-v1.xml)
 
 ---
 
