@@ -35,7 +35,7 @@ An automated end-to-end fulfillment pipeline for IT equipment requests built on 
   * Conditional branching logic & dynamic SLA priority routing in Flow Designer.
   * Contextual email notifications with dynamic target record numbers.
 * **Artifacts:**
-  * 📄 [View Update Set XML](./update-sets/richiesta-kit-lavoro-v1.xml)
+  * 📄 [View Update Set XML](./sys_remote_update_set_370696c11ca203107f447f33d5936a17.xml)
 
 ---
 
