@@ -37,7 +37,7 @@ An automated end-to-end fulfillment pipeline for IT equipment requests built on 
 * **Artifacts:**
   * 📄 [View Update Set XML](./sys_remote_update_set_370696c11ca203107f447f33d5936a17.xml)
  
-  ###  Project 2: Incident VIP Escalation Automation (ITSM)
+###  Project 2: Incident VIP Escalation Automation (ITSM)
 
 An automated incident routing and priority escalation workflow built with **Flow Designer**.
 
