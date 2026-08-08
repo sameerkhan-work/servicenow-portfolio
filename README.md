@@ -26,7 +26,7 @@ This repository serves as a portfolio and hands-on lab environment where I docum
 
 ## 🚀 Featured Projects
 
-### 🛠️ IT Equipment Provisioning & Task Automation (Scoped App)
+### Project 1: IT Equipment Provisioning & Task Automation (Scoped App)
 An automated end-to-end fulfillment pipeline for IT equipment requests built on **App Engine Studio** and **Flow Designer**.
 
 * **Business Case:** Eliminates manual email handling for hardware onboarding by automatically setting task priorities based on employee role (`Manager` -> Critical, `Developer` -> High, `Standard` -> Low).
@@ -36,7 +36,19 @@ An automated end-to-end fulfillment pipeline for IT equipment requests built on 
   * Contextual email notifications with dynamic target record numbers.
 * **Artifacts:**
   * 📄 [View Update Set XML](./sys_remote_update_set_370696c11ca203107f447f33d5936a17.xml)
+ 
+  ###  Project 2: Incident VIP Escalation Automation (ITSM)
 
+An automated incident routing and priority escalation workflow built with **Flow Designer**.
+
+- **Business Case:** Eliminates manual triage for high-priority business users by automatically detecting VIP status and routing the incident with elevated priority.
+- **Key Features:**
+  - Dynamic user check on record creation (`Caller -> VIP = True`).
+  - Automated update to `Urgency = High` & `Impact = High` (Priority 1 Critical).
+  - Auto-assignment to `Service Desk` with automated system `Work Notes`.
+  - Contextual email notification sent to IT management.
+- **Artifacts:**
+  - 📄 [View Update Set XML](./sys_remote_update_set_2cfb645a...)
 ---
 
 ## 📬 Let's Connect!
