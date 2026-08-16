@@ -49,6 +49,20 @@ An automated incident routing and priority escalation workflow built with **Flow
   - Contextual email notification sent to IT management.
 - **Artifacts:**
   - 📄 [View Update Set XML](./sys_remote_update_set_2cfb645a...)
+ 
+### Project 3: Corporate Laptop Request & Dynamic Manager Approval (Service Catalog)
+
+An automated end-to-end hardware request and fulfillment lifecycle built with **Service Catalog** and **Flow Designer**.
+
+* **Business Case:** Standardizes corporate hardware provisioning by replacing manual emails with a governed self-service catalog, enforcing manager approval before procurement and IT task generation.
+* **Key Features:**
+  * Custom Catalog Item (`Request Corporate Laptop`) configured with modular choice variables and business justification logic.
+  * Automated Flow Designer trigger on `sc_req_item` record creation.
+  * Dynamic Manager Approval routing (`Ask for Approval` referencing requester's direct manager).
+  * Automatic creation and assignment of fulfillment tasks (`sc_task`) to the **Hardware** group upon approval.
+  * Synchronized end-to-end state transitions across `REQ`, `RITM`, and `SCTASK` to `Closed Complete`.
+* **Artifacts:**
+  * 📄 [View Update Set XML](./sys_remote_update_set_fb897d70b0720310)
 ---
 
 ## 📬 Let's Connect!
