@@ -48,7 +48,7 @@ An automated incident routing and priority escalation workflow built with **Flow
   - Auto-assignment to `Service Desk` with automated system `Work Notes`.
   - Contextual email notification sent to IT management.
 - **Artifacts:**
-  - 📄 [View Update Set XML](./sys_remote_update_set_2cfb645a...)
+  - 📄 [View Update Set XML](./sys_remote_update_set_2cfb645a682a03107f44ca6635f3a2de.xml)
  
 ### Project 3: Corporate Laptop Request & Dynamic Manager Approval (Service Catalog)
 
