@@ -62,7 +62,7 @@ An automated end-to-end hardware request and fulfillment lifecycle built with **
   * Automatic creation and assignment of fulfillment tasks (`sc_task`) to the **Hardware** group upon approval.
   * Synchronized end-to-end state transitions across `REQ`, `RITM`, and `SCTASK` to `Closed Complete`.
 * **Artifacts:**
-  * 📄 [View Update Set XML](./sys_remote_update_set_fb897d70b0720310)
+  * 📄 [View Update Set XML](./sys_remote_update_set_fb897d70b07203107f44b05a268c5748.xml)
 ---
 
 ## 📬 Let's Connect!
